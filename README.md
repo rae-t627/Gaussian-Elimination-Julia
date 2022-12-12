@@ -19,8 +19,10 @@ Installation process:
 
 1. The CSV package can be installed by running the following in the terminal:
     >using Pkg
+    >
     >Pkg.add("CSV")
 2. The DataFrames package can be installed by running the following:
     >using Pkg
+    >
     >Pkg.add("DataFrames")
 
