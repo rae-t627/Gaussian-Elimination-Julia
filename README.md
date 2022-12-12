@@ -18,9 +18,9 @@ Inorder to read from the CSV file, you will need the following packages:
 Installation process:
 
 1. The CSV package can be installed by running the following in the terminal:
-    using Pkg
-    Pkg.add("CSV")
+    >using Pkg
+    >Pkg.add("CSV")
 2. The DataFrames package can be installed by running the following:
-    using Pkg
-    Pkg.add("DataFrames")
+    >using Pkg
+    >Pkg.add("DataFrames")
 
