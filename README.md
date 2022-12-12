@@ -8,3 +8,17 @@ The first n columns of the csv file contains the matrix A and the (n + 1)th colu
 It gives the following as the output:
 i) if the solution is unique: prints the solution
 ii) The program terminates if there are infinte or no solutions, and the same is printed as the output.
+
+## Packages
+
+Inorder to read from the CSV file, you will need the following packages:
+i) CSV
+ii) DataFrames
+
+i) The CSV package can be installed by running the following in the terminal:
+    using Pkg
+    Pkg.add("CSV")
+ii) The DataFrames package can be installed by running the following:
+    using Pkg
+    Pkg.add("DataFrames")
+
